@@ -28,8 +28,9 @@ public class TiposDatos {
         System.out.println("tipoChar = " + tipoChar);
         tipoChar = 65; //Caracteres Unicode
         System.out.println("tipoChar = " + tipoChar);
-        tipoChar='@';
-        
+        tipoChar = '@';
+        System.out.println("tipoChar = " + tipoChar);
+
         //Booleano
         boolean tipoBoolean = true;
         System.out.println("tipoBoolean = " + tipoBoolean);
